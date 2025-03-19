@@ -1,0 +1,26 @@
+ul{
+    display:inline;
+    display:flex;
+}
+.three{
+margin-left:70px;
+}
+.two{
+    margin-left: 70px;
+}
+.one{
+    margin-left: 500px;
+}
+img{
+    height:200px;
+    width:200px;
+}
+.con1{
+    margin-top:20px;
+}
+.con2{
+    margin-top:30px;
+}
+.con3{
+    margin-top:30px;
+}
